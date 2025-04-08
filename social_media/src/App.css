@@ -7,5 +7,18 @@
 }
 
 .sidebar {
-  min-height: 100vh;
+  height: 100vh;
+}
+
+.post-card {
+  margin: 20px 50px;
+
+}
+
+.card-body {
+  background-color: floralwhite;
+}
+
+.hashtag {
+  margin: 0px 3px;
 }
